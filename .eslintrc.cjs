@@ -5,9 +5,7 @@ module.exports = {
   },
   extends: [
     'standard-with-typescript',
-    'plugin:react/recommended',
-    'plugin:react/jsx-runtime',
-    'plugin:@typescript-eslint/recommended-type-checked'
+    'plugin:react/recommended'
   ],
   overrides: [
     {
